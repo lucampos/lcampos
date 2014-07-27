@@ -1,0 +1,16 @@
+{
+  "name": "luroku",
+  "version": "0.0.1",
+  "description": "An app",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/isaacs/npm.git"
+  },
+  "dependencies": {
+    "st": "0.5.1"
+  },
+  "engines": {
+     "node": "0.10.28",
+     "npm": "1.4.9"
+  }
+}
